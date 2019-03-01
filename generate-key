@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+sbt "run generate-key $1 $2"
